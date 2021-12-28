@@ -1,2 +1,2 @@
 # Tic-tac-toe
-first project where I used javascript
+made to practice javascript
